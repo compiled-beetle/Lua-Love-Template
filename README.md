@@ -32,3 +32,24 @@ This project is licensed under the MIT License - see the [LICENSE](./LICENSE) fi
 
 License only applies to the code in this repository. Lua and LÖVE 2D have their own licenses which you should review
 before using them in your project.
+
+## File Structure
+
+```txt
+.
+├── assets/
+│   ├── fonts/
+│   │   └── font.ttf
+│   ├── images/
+│   │   └── image.png
+│   └── sounds/
+│       └── sound.ogg
+├── conf.lua
+├── main.lua
+├── LICENSE
+├── README.md
+└── src/
+    ├── game.lua
+    ├── player.lua
+    └── enemy.lua
+```
