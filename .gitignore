@@ -1,0 +1,6 @@
+# lua love files
+*.bak
+*.swp
+
+# vscode files
+# .vscode # keeping settings in git repo
